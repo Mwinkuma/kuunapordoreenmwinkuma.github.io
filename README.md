@@ -1,3 +1,2 @@
-Final project submission after learning basic web development from Afro Fem Coders.
-# kuunapordoreenmwinkuma.github.io
+Final project submission after learning basic web development from Afro Fem coders
  AfroFemCoders Final projects
