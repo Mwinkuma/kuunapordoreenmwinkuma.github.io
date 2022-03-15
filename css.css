@@ -6,7 +6,6 @@ margin: 0%;
 background-image: url("cool.jpg");
 background-repeat: no-repeat;
 background-size: cover;
-opacity: ;
 /*i will add a background image here */
 }
 h1{
@@ -44,7 +43,8 @@ h2{
 
 }
 .profile-pic{
-    width: 25%;
+    max-width: 100%;
+    height: auto;
     display: block;
     margin: auto;
 }
